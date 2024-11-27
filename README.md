@@ -61,7 +61,7 @@ apply it on 5 pages (ex. list of products,list of employees, list of students, e
       </div>
       <div class="card">
         <img src="images (2).jpg" alt="Employee 3">
-        <h3>Jhames</h3>
+        <h3>zeke</h3>
         <p>Position: Manager</p>
       </div>
     </div>
